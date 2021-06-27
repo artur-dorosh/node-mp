@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon module1/task2.js"
+    "start:task1": "nodemon module1/task1.js",
+    "start:task2": "nodemon module1/task2.js"
   },
   "author": "Artemii Dorosh",
   "license": "ISC",
